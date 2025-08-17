@@ -1,0 +1,7 @@
+2023-09-06T10:15:30 INFO Application started successfully
+2023-09-06T10:16:45 ERROR Database connection failed
+2023-09-06T10:17:12 WARNING Memory usage above 80%
+2023-09-06T10:18:00 INFO Processing user request
+2023-09-06T10:19:33 ERROR Invalid user credentials
+2023-09-06T10:20:15 DEBUG Cache miss for key xyz
+2023-09-06T10:21:22 WARNING Disk space running low

@@ -1,0 +1,4 @@
+!*.go
+results.csv
+log-processor/log-processor
+file-stats/file-stats

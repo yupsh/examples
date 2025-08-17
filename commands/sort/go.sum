@@ -1,0 +1,4 @@
+github.com/yupsh/framework v0.0.0-20250901202619-a6797080e919 h1:A96LrCBfbjqWeTHnSPqwmeJzLC3bgn5SbrSjU3OqXs0=
+github.com/yupsh/framework v0.0.0-20250901202619-a6797080e919/go.mod h1:pXSwOkJTQnjBjcc8ExoHl8Y9wIv27FNP6YPfnYI2XT0=
+github.com/yupsh/sort v0.0.0-20250906184045-0f8d0103b621 h1:eSkECe0Ev4uE8WJAGMre/xS4/wwEC9A9wezQRyYb+pQ=
+github.com/yupsh/sort v0.0.0-20250906184045-0f8d0103b621/go.mod h1:HFFt1VJ8fVmbx98SpI4x3S53F+MSBEawrXgCSuhe9ys=
